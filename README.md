@@ -125,9 +125,9 @@ import { getRenewalDate } from "./getRenewalDate";
 import UserData from "../userData.json";
 
 export const getNextRenewalDate = () => {
-  const currentRenewalDate = getRenewalDate(); // 2024-05-07
-  const getCurrentPlan = UserData["Current Plan"]; // Silver90 / ₹ 199 / Validity: 90 days
-  const numberOfDaysToExtend = getCurrentPlan.split("/")[2].split(" ")[2]; // 90
+  const currentRenewalDate = getRenewalDate();
+  const getCurrentPlan = UserData["Current Plan"];
+  const numberOfDaysToExtend = getCurrentPlan.split("/")[2].split(" ")[2];
 
   console.log(numberOfDaysToExtend);
 
