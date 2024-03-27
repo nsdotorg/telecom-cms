@@ -7,6 +7,8 @@ The app consists of 4 main pages
 3. Dashboard Page - Displays the user details submitted while registration
 4. Profile Page - To change or renew plan
 
+**Note:** Screenshots attached below
+
 ### API endpoint to manage new user registration
 
 ```js
