@@ -160,4 +160,18 @@ getRenewalDate.test.js
 
 ### Application Screenshots
 
-![image-20240327172958079](/Users/stats/Library/Application Support/typora-user-images/image-20240327172958079.png)
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/3a771bb6-0833-4e0a-9b16-9eb26e8a536e">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/550daadd-a638-4d10-bcf9-caa848ad850f">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/4c2451fd-9d62-43d2-84e9-326dcc98f9b9">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/a9c00244-4636-4197-8896-f66735650267">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/7d7c23f8-b00b-4b5b-83db-949c3d4b8097">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/d264bc90-6e12-42d1-ba9c-f38ffc3b097b">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/28ad7ec2-a6fc-4447-b386-449909814dcc">
+<img width="1680" alt="image" src="https://github.com/nsdotorg/telecom-cms/assets/50475136/0d8a8ab1-8699-4058-8a07-8ba2f3111dd1">
+
+
+
+
+
+
+
