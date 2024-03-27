@@ -157,3 +157,7 @@ getRenewalDate.test.js
 ```
 
 `Note`: Unable to complete the renew plan feature completely.
+
+### Application Screenshots
+
+![image-20240327172958079](/Users/stats/Library/Application Support/typora-user-images/image-20240327172958079.png)
